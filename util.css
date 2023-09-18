@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Roboto+Condensed:ital@1&display=swap');
+
+:root {
+    --font1: 'roboto', sans-serif;
+    --font2: 'Baloo Bhaina', cursive;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.max-width-1 {
+    max-width: 80vw;
+}
+
+.max-width-2 {
+    max-width: 60vw;
+}
